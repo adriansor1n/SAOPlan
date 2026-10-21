@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sSAOPlan_logo.png" width="180" alt="SAOPLAN Logo">
+  <img src="SAOPlan_logo.png" width="180" alt="SAOPLAN Logo">
 </p>
 
 # SAOPLAN
