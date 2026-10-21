@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sSAOPlan_logo.png" width="180" alt="SAOPLAN Logo">
+</p>
+
 # SAOPLAN
 
 **SAOPLAN** este o aplicație pentru găsirea programărilor potrivite, fără căutări inutile și telefoane către mai mulți furnizori. Utilizatorul selectează serviciul dorit, data sau perioada, intervalul orar, locația și bugetul, iar aplicația îi prezintă opțiuni care se potrivesc criteriilor sale.
